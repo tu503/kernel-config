@@ -1,0 +1,9 @@
+ * It's recommended to set an empty value to the following kernel config option:
+ * CONFIG_UEVENT_HELPER_PATH="/sbin/udevadm"
+ * Checking for suitable kernel configuration options...
+ *   CONFIG_AUTOFS4_FS:  is not set when it should be.
+ *   CONFIG_CHECKPOINT_RESTORE:  is not set when it should be.
+ *   CONFIG_FANOTIFY:    is not set when it should be.
+ *   CONFIG_CRYPTO_USER_API_HASH:        is not set when it should be.
+ *   CONFIG_CGROUP_BPF:  is not set when it should be.
+ * Please check to make sure these options are set correctly.
